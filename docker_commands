@@ -7,6 +7,7 @@ docker build -t techtrends .
 # we used same setup (same ubuntu server so we had to use different port number.)
 docker run -d -p 7113:3113 techtrends
  
+
 ## Docker commands used to get the application logs
 # TODO: insert the docker logs command
 #docker container
